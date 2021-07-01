@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%There!)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20There!)
 ![sup2is's github stats](https://github-readme-stats.vercel.app/api?username=sup2is&show_icons=true)
 
 
