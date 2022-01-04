@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20There!)
 
 
-<center> 🔥🔥🔥 주도적으로 일하기!! 🔥🔥🔥  </center></br>
-<center> 🔥🔥🔥 실패와 비난을 두려워하지 말기!! 🔥🔥🔥  </center></br>
+<center> 🔥🔥🔥 <b>주도적으로 일하기!!</b> 🔥🔥🔥  </center></br>
+<center> 🔥🔥🔥 <b>실패와 비난을 두려워하지 말기!!</b> 🔥🔥🔥  </center></br>
 </br>
 
 - 켄트백의 단순한 설계를 위한 네가지 원칙
